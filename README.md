@@ -5,10 +5,6 @@
 A REST API for managing tasks, built with **Java 17, Spring Boot 3, Spring Data JPA (Hibernate) and MySQL**.
 Another developer can clone it, run it with one command, or deploy it with Docker / Render.
 
-- **GitHub repository:** `<paste your GitHub repo URL here>`
-- **Live service URL:** `<paste your live URL here>`
-- **Swagger API docs (live):** `<live URL>/swagger-ui.html`
-
 ## Features
 - Full CRUD for tasks with filtering, search and pagination
 - Bean validation and clean JSON error responses (400 / 401 / 404)
@@ -89,4 +85,4 @@ Deployment guide (local, Docker, Render, Eclipse): [docs/DEPLOYMENT.md](docs/DEP
 Java 17 · Spring Boot 3.3 · Spring Web · Spring Data JPA · Hibernate · MySQL · Maven · Swagger/OpenAPI · Postman · JUnit 5 · Docker · Git/GitHub · Eclipse
 
 ---
-Built by `<your name>` as part of the SWYNEX Technologies internship.
+Built by Madhuri Barad as part of the SWYNEX Technologies internship.
